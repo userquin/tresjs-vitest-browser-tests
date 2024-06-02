@@ -51,6 +51,6 @@
     "webdriverio": "^8.38.0"
   },
   "stackblitz": {
-    "startCommand": "pnpm test:browser:none"
+    "startCommand": "npm run test:browser:none"
   }
 }
