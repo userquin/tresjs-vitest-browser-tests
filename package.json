@@ -52,5 +52,10 @@
   },
   "stackblitz": {
     "startCommand": "npm run test:browser:preview"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "vitest@2.0.0-beta.7": "patches/vitest@2.0.0-beta.7.patch"
+    }
   }
 }
