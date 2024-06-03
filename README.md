@@ -10,7 +10,7 @@
 - `@tresjs/cientos` package pre-installed 📦
 - `@tresjs/leches` GUI controls for debuging 🍰
 - Shader support (glsl) with [`vite-plugin-glsl`](https://github.com/UstymUkhman/vite-plugin-glsl) 🎨
-- Running tests in the browser using [Vitest Browser 2.0 Beta 5](https://github.com/vitest-dev/vitest)
+- Running tests in the browser using [Vitest Browser 2.0 Beta 7](https://github.com/vitest-dev/vitest)
 
 ## Play Online
 
