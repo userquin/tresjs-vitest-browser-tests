@@ -1,11 +1,9 @@
 <script setup lang="ts">
-import { TresCanvas } from '@tresjs/core'
-
-import TheExperience from './components/index.vue'
+// eslint-disable-next-line unused-imports/no-unused-imports
+import Manual from './components/manual/index.vue'
+import OnDemand from './components/on-demand/index.vue'
 </script>
 
 <template>
-  <TresCanvas clear-color="#82DBC5" window-size>
-    <TheExperience />
-  </TresCanvas>
+  <OnDemand />
 </template>

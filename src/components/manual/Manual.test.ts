@@ -8,6 +8,7 @@ describe('on demand', () => {
     })
     const canvas = wrapper.find('canvas')
     expect(canvas).toBeDefined()
+    console.log(canvas.attributes('__spector_context_type'))
     /* const canvas = wrapper.find('canvas')
 
         expect(canvas.attributes('__spector_context_type')).toBe('webgl2') */
