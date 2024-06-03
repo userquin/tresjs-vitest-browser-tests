@@ -1,0 +1,13 @@
+diff --git a/dist/vendor/cli-api.BRiY1IY3.js b/dist/vendor/cli-api.BRiY1IY3.js
+index 1b393ed90457d13aea60765b341df423988c3996..c88384af316910653e2b143039db90743ac057c0 100644
+--- a/dist/vendor/cli-api.BRiY1IY3.js
++++ b/dist/vendor/cli-api.BRiY1IY3.js
+@@ -11697,7 +11697,7 @@ function resolveConfig(mode, options, viteConfig, logger) {
+   (_N = resolved.browser.viewport).width ?? (_N.width = 414);
+   (_O = resolved.browser.viewport).height ?? (_O.height = 896);
+   if (resolved.browser.enabled && provider$1 === "stackblitz")
+-    resolved.browser.provider = "none";
++    resolved.browser.provider = "preview";
+   resolved.browser.api = resolveApiServerConfig(resolved.browser) || {
+     port: defaultBrowserPort
+   };
