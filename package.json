@@ -2,8 +2,8 @@
   "name": "tresjs-vitest-browser-tests",
   "type": "module",
   "version": "0.0.0",
-  "description": "Testing TresJS with Vitest Browser 2.0 Beta",
-  "packageManager": "pnpm@9.1.4",
+  "description": "Testing TresJS with Vitest Browser 2.0",
+  "packageManager": "pnpm@9.6.0",
   "license": "MIT",
   "keywords": [
     "vue",
